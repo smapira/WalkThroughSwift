@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3d2-h6-1MH"; */
+"3d2-h6-1MH.text" = "Label";
+
+/* Class = "UILabel"; text = "Auto layout"; ObjectID = "CLz-5r-p2j"; */
+"CLz-5r-p2j.text" = "Auto layout";
+
+/* Class = "UINavigationItem"; title = "Channels"; ObjectID = "IlV-s7-HYt"; */
+"IlV-s7-HYt.title" = "Channels";
+
+/* Class = "UILabel"; text = "Swift"; ObjectID = "Iux-aL-0M5"; */
+"Iux-aL-0M5.text" = "Swift";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jej-fv-gVG"; */
+"Jej-fv-gVG.text" = "Label";
+
+/* Class = "UILabel"; text = "Apple official"; ObjectID = "MCz-OJ-Xvb"; */
+"MCz-OJ-Xvb.text" = "Apple official";
+
+/* Class = "UILabel"; text = "Real time chat app"; ObjectID = "Pe1-Fc-zBf"; */
+"Pe1-Fc-zBf.text" = "Real time chat app";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UAa-YB-01B"; */
+"UAa-YB-01B.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VlN-e3-183"; */
+"VlN-e3-183.text" = "Label";
+
+/* Class = "UILabel"; text = "Xcode"; ObjectID = "eMl-KV-6zP"; */
+"eMl-KV-6zP.text" = "Xcode";
+
+/* Class = "UIButton"; normalTitle = "お問い合わせ"; ObjectID = "fKA-0B-b9C"; */
+"fKA-0B-b9C.normalTitle" = "お問い合わせ";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "id5-V5-U0u"; */
+"id5-V5-U0u.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Youtubes"; ObjectID = "ogu-IW-VIm"; */
+"ogu-IW-VIm.title" = "Youtubes";
+
+/* Class = "UILabel"; text = "入門編"; ObjectID = "wVT-Ug-RIo"; */
+"wVT-Ug-RIo.text" = "入門編";
+
+/* Class = "UILabel"; text = "Lets build youtube"; ObjectID = "wY8-HX-kgc"; */
+"wY8-HX-kgc.text" = "Lets build youtube";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xrm-yt-9Ht"; */
+"xrm-yt-9Ht.text" = "Label";
